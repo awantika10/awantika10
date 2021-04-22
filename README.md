@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to Dance!
 ## 📫 Social
 
-[![Twitter Badge](https://img.shields.io/badge/-@NigamAwantika-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NigamAwantika)](https://twitter.com/sidv_22) 
+[![Twitter Badge](https://img.shields.io/badge/-@NigamAwantika-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NigamAwantika)](https://twitter.com/NigamAwantika) 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Awantika%20Nigam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/awantika-nigam-2181861a8 )]( https://www.linkedin.com/in/awantika-nigam-2181861a8)
