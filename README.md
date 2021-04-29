@@ -16,10 +16,10 @@
 
 #### 🤔 Who Am I!?
 
-- 🏫 I am a Sophomore pursuing a Bachelor’s degree in Computer Sciences from Lakshmi Narain College of Technology Bhopal.
+- 🏫 I am a Sophomore pursuing a Bachelor’s degree in Electronics and Communication from Lakshmi Narain College of Technology Bhopal.
 - ⚡️ My expertise primarily revolves around JavaScript, React, MERN, Web Development, UI/UX Designs;
-- 🔭 I’m currently working with Multiple Open Source Projects & Startups.
-- ♥️ I am an open-source lover and that's why I regularly contribute to open-source products.
+- 🔭 I’m currently working with Multiple Open Source Projects.
+- ♥️ I am an open-source lover.
 > 🐱‍💻 Not very active in Competitive Programming anymore, but if I get time or feeling, I do :)
 
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
