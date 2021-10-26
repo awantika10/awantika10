@@ -15,8 +15,8 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-4124786%20Lines%20of%20code-blue)
 
 #### 🤔 Who Am I!?
-
-- 🏫 I am a Sophomore pursuing a Bachelor’s degree in Electronics and Communication from Lakshmi Narain College of Technology Bhopal.
+- Google Developer Student Club Lead - LNCT
+- 🏫 I am a Prefinal Year Student pursuing a Bachelor’s degree in Electronics and Communication from Lakshmi Narain College of Technology Bhopal.
 - ⚡️ My expertise primarily revolves around JavaScript, React, MERN, Web Development, UI/UX Designs;
 - 🔭 I’m currently working with Multiple Open Source Projects.
 - ♥️ I am an open-source lover.
