@@ -1,9 +1,5 @@
-### Hello!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hello Folks!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-
-<a href="https://twitter.com/intent/follow?screen_name=awantika10"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="30" height="30"></a>
-<a href="https://www.linkedin.com/in/awantika-nigam-2181861a8/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30"></a>
-<a href="mailto:awantikanigam101220@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/646/646187.svg" width="30" height="30"></a>
 <br>
 
 ### My Blogs: 
